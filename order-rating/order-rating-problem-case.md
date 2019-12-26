@@ -28,7 +28,7 @@ Identify what is the *root cause* to this operational problem and *advise the te
 
 ## The Data: What you must analyze
 
-You can find the data to analyze here: [Order Rating Problem Data](ze-delivery-order-rating-problem-data.xlsx)
+You can find the data to analyze here: [Order Rating Problem Data](https://github.com/ZXVentures/ze-analysis-cases/blob/order-rating-challenge/order-rating/ze-delivery-order-rating-problem-data.xlsx?raw=true)
 
 ### Don't forget!
 

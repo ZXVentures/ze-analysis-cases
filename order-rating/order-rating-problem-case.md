@@ -8,11 +8,11 @@ Since its launch in January '16, the service has a rating system in which the us
 
 The operational side of Zé Delivery counts with many partners (POCs) spread through a city. They are totally responsible for handling the delivery. That means that Zé’s platform only take the order from a user and send it to a chosen POCs. They accept that order, delivers and charge the user.
 
-## The Problem: what we are 
+## The Problem: what we noticed 
 
 Recently the Growth Team started to invest a lot of money to exponentially increase the number of orders. However, during our meetings of results (SDG) we noticed that the average rating began to drop. Our team is now afraid that if they invest too much money on growth, the operations won’t be able to handle the demand and it will ruin what we created as a brand.
 
-### Important to notice
+### Important!
 
 * In July ’17 the platform in which Zé Delivery operated was changed to a new one we developed in-house. That coincide with the same period the order rating started to drop. 
 *	The increase on marketing investment began in August ’17.

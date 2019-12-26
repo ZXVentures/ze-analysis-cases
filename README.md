@@ -13,7 +13,7 @@ So, in order to fulfill this vision and deliver this amazing experience to all o
 
 We hope you are eager to take one of our analysis cases and show us your amazing analysis. :) We 
 
-*Choose the analysis case you have agreed to do with your contact at Zé:*
+Choose the case you have agreed to analyze with your contact at Zé:
 
 - [Order Rating Problem Case](order-rating/order-rating-problem-case.md)
 
